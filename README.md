@@ -3,7 +3,7 @@
 ### These script may be very useful for OBS users or anyone who may be interested in learning about task automation with python.
 
 ## OBS UI
-![UI...](screenshots/obs.PNG?raw=true "Optional Title")
+![UI...](screenshots/obs.png?raw=true "Optional Title")
 
 ## GUIDE
 - You are required to start your screen-recording before you run the script.
