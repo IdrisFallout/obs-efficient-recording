@@ -10,4 +10,4 @@
 
 
 > **Note** 
-> The project is OpenSource
+> The project is Open-source
